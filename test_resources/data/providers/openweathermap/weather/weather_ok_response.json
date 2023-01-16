@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -0.3302,
+    "lat": 39.5942
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 24.39,
+    "feels_like": 24.56,
+    "temp_min": 23.81,
+    "temp_max": 25.04,
+    "pressure": 1007,
+    "humidity": 64
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.66,
+    "deg": 50
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1653391983,
+  "sys": {
+    "type": 2,
+    "id": 2006204,
+    "country": "ES",
+    "sunrise": 1653367221,
+    "sunset": 1653419775
+  },
+  "timezone": 7200,
+  "id": 2512073,
+  "name": "Rafelbunyol",
+  "cod": 200
+}
